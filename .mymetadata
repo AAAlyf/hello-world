@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="stums-houxiaohui"
+  id="myeclipse.1535632962852"
+  context-root="/stums-houxiaohui"
+  j2ee-spec="5.0"
+  archive="stums-houxiaohui.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
