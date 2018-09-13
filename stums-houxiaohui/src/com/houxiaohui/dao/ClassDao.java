@@ -15,5 +15,5 @@ public interface ClassDao {
 
 	void addClass(Classes classe);
 
-
+	list selectClass01(Map map);
 }
